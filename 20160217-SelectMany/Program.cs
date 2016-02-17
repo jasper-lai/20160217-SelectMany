@@ -10,6 +10,7 @@ namespace _20160217_SelectMany
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
