@@ -10,7 +10,7 @@ http://jasper-it.blogspot.com/2016/02/c-linq-selectmany.html
 總共有 3 個 overloading 的擴充方法, 
 (1) 修改方法名稱, 在每個方法加上 My, 以與 .NET Framework 的源碼的原有方法作區隔
 (2) 將有 Error.xxxx 的程式段註解掉, 
-註: .NET Framework 源碼 連結: http://referencesource.microsoft.com/#System.Core/System/Linq/Enumerable.cs,8f3471331178bcb0 ) 
+註: .NET Framework 源碼 連結: ( http://referencesource.microsoft.com/#System.Core/System/Linq/Enumerable.cs,8f3471331178bcb0 ) 
 
 2. 建立 PetOwner 類別
 
